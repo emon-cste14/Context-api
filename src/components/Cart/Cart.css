@@ -1,0 +1,9 @@
+.summry-btn{
+    background-color: orange;
+    color: rgba(0, 0, 0, 0.822);
+    width: 150px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
